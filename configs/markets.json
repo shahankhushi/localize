@@ -1,0 +1,49 @@
+{
+  "markets": [
+    {
+      "market_code": "GCC_UAE_KSA",
+      "region": "Middle East / Gulf",
+      "primary_languages": ["ar", "en"],
+      "writing_direction": "RTL",
+      "dominant_channels": {
+        "whatsapp": 0.40,
+        "instagram": 0.25,
+        "snapchat": 0.20,
+        "tiktok": 0.15
+      },
+      "transcreation_guidelines": "Avoid direct English idioms. Emphasize hospitality, family prestige, and authentic peer recommendations. Ensure modesty guidelines for talent attire.",
+      "payment_preferences": ["Apple Pay", "Tabby/Tamara (BNPL)", "Cash on Delivery (COD)"],
+      "key_shopping_moments": ["Ramadan & Eid al-Fitr", "Eid al-Adha", "White Friday (Nov)", "National Days"]
+    },
+    {
+      "market_code": "SOUTH_ASIA_PK",
+      "region": "South Asia (Pakistan)",
+      "primary_languages": ["ur", "en"],
+      "writing_direction": "RTL",
+      "dominant_channels": {
+        "whatsapp": 0.45,
+        "facebook": 0.25,
+        "tiktok": 0.20,
+        "instagram": 0.10
+      },
+      "transcreation_guidelines": "High responsiveness to price transparency, bundle value, and cash on delivery reassurance. Creative thrives on relatable comedic sketches or emotional family storylines.",
+      "payment_preferences": ["Cash on Delivery (COD 75%+)", "Easypaisa / JazzCash", "Bank Transfer"],
+      "key_shopping_moments": ["Ramadan & Eid", "Wedding Season (Nov-Feb)", "11.11 Singles Day", "Azadi Sale (August)"]
+    },
+    {
+      "market_code": "DACH_DE",
+      "region": "Western Europe (Germany, Austria, Switzerland)",
+      "primary_languages": ["de"],
+      "writing_direction": "LTR",
+      "dominant_channels": {
+        "google_search": 0.35,
+        "meta_instagram": 0.30,
+        "youtube": 0.20,
+        "linkedin": 0.15
+      },
+      "transcreation_guidelines": "Zero tolerance for hype or aggressive urgency timers. Demands extensive technical specifications, TÜV/clinical certifications, and transparent Impressum/Datenschutz compliance.",
+      "payment_preferences": ["PayPal", "Klarna (Invoice/Rechnung)", "SEPA Direct Debit"],
+      "key_shopping_moments": ["Black Week", "Sommerschlussverkauf (Summer Sale)", "Christmas Advent"]
+    }
+  ]
+}
