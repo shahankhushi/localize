@@ -57,4 +57,4 @@ This project expands through global contributions. To add your country or region
 ---
 
 ## License
-MIT © [Imam Haider (@darhaiderimam)](https://github.com/darhaiderimam) • [LinkedIn](https://www.linkedin.com/in/darhaiderimam)
+MIT © [Shahaan Khushi (@shahankhushi)](https://github.com/shahankhushi)
